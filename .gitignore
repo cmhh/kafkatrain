@@ -1,0 +1,9 @@
+**/target
+**/.metals
+**/.vscode
+**/.bsp
+emnist
+mnist
+kafka_2.13-2.8.0
+work.txt
+project/project
